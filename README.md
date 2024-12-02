@@ -1,0 +1,1 @@
+A test repository for a test Java application using Kafka.
